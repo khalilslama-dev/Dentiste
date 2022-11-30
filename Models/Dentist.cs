@@ -2,7 +2,7 @@
 
 namespace Dentiste.Models
 {
-    public class Dentiste
+    public class Dentist
     {
         [Key]
         public int Id { get; set; }
